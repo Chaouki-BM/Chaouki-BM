@@ -47,7 +47,7 @@ I'm 23 years old and deeply passionate about both frontend and backend developme
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![React.js Badge](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB…)](#) 
 [![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
 [![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#) 
