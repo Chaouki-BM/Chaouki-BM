@@ -5,7 +5,7 @@
 
 
 
-<img title="My Avatar" align="left" src="assets/images/Chaouki.png"  width="500px" alt="hi" >
+<img title="My Avatar" align="left" src="Chaouki.png"  width="500px" alt="hi" >
 
 <!--  About me -->
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> *About me*-->
