@@ -11,8 +11,9 @@
 <!--## <picture><img src = "assets/about_me.gif" width = 50px></picture> *About me*-->
 *About me*
 
-I'm Chaouki Ben Miled a Engineering student at (EPI) in Tunisia 💻 , I'm 23 years old .
-I am completely passionate about frontend backend development .
+I'm Chaouki Ben Miled, an engineering student at EPI in Tunisia(Sousse) 💻. 
+I also hold a bachelor's degree in Information Technology (Licence en Technologie d'Informatique) from ISET Sousse.
+I'm 23 years old and deeply passionate about both frontend and backend development.
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
