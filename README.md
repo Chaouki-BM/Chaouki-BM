@@ -25,7 +25,6 @@ I'm 23 years old and deeply passionate about both frontend and backend developme
 <!-- YouTube Channel Views /GitHub followers /visitors/Age  -->
 ![GitHub followers](https://img.shields.io/github/followers/Chaouki-BM?style=social)
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=AzizBenIsmail.AzizBenIsmail)-->
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Chaouki-BM)
 <img src="https://img.shields.io/badge/Age-23-blue" />
 
@@ -35,9 +34,8 @@ I'm 23 years old and deeply passionate about both frontend and backend developme
 
 - 🔭 I’m currently working at @Toptal
 - :computer: Most used line of code git commit -m "Initial Commit"
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: aziz.270700@gmail.com.
-- 😄 Pronouns: Sam3oulation,Ismail.
+- 📫 How to reach me: chaouki.benMiled@gmail.com.
+- 😄 Pronouns: Chou,Chaouki.
 -->
 
 
@@ -52,3 +50,54 @@ I'm 23 years old and deeply passionate about both frontend and backend developme
 [![Express.js Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
 [![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#) 
 
+<!-- Github Stats   -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaouki-BM&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Chaouki-BM&show_icons=true&theme=radical)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chaouki-BM&&theme=algolia" alt="Chaouki-BM" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Chaouki-BM&theme=react)
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+Credit: [Chaouki Ben Miled](https://github.com/Chaouki-BM) 
+
+Last Edited on: 24/11/2024
+<details> 
+  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
+  <div>
+  <samp>
+      <br/>
+            <p align="center">
+      </p>
+        <p align="center">
+          <a href="https://github.com/Chaouki-BM/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chaouki-BM&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chaouki-BM&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+    <br>
+
+## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chaouki-BM&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
+
+<br>
+</details>
+
+
+
+
+[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
+[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
+[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
+[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
