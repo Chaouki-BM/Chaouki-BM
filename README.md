@@ -13,7 +13,7 @@
 
 I'm Chaouki Ben Miled, an engineering student at EPI in Tunisia(Sousse) 💻. 
 I also hold a bachelor's degree in Information Technology (Licence en Technologie d'Informatique) from ISET Sousse.
-I'm 23 years old and deeply passionate about both frontend and backend development.
+I'm 24 years old and deeply passionate about both frontend and backend development.
 
 <!-- Let's Connect..! -->
 # <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -26,7 +26,7 @@ I'm 23 years old and deeply passionate about both frontend and backend developme
 ![GitHub followers](https://img.shields.io/github/followers/Chaouki-BM?style=social)
 [![wakatime](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160.svg)](https://wakatime.com/badge/user/c0a37276-8396-4881-b56d-232ffd4059dc/project/2c199d38-84a2-4054-9b13-a685f16d5160)
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=Chaouki-BM)
-<img src="https://img.shields.io/badge/Age-23-blue" />
+<img src="https://img.shields.io/badge/Age-24-blue" />
 
 <!-- Ligne  -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -69,7 +69,7 @@ I'm 23 years old and deeply passionate about both frontend and backend developme
 
 Credit: [Chaouki Ben Miled](https://github.com/Chaouki-BM) 
 
-Last Edited on: 24/11/2024
+Last Edited on: 09/04/2025
 <details> 
   <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
   <div>
